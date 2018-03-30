@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        var hoge:Int
+        hoge = 5
+        print(hoge)
+        
     }
 
     override func didReceiveMemoryWarning() {
