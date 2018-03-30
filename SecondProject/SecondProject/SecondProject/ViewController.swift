@@ -17,6 +17,10 @@ class ViewController: UIViewController {
         hoge = 5
         print(hoge)
         
+        let gogo:String
+        gogo="aaa"
+        print(gogo)
+        
     }
 
     override func didReceiveMemoryWarning() {
